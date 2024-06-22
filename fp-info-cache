@@ -1,4 +1,4 @@
-23339723565702927
+23343161725215960
 ATS08A-E
 XTAL_HC49P488W43L1085T450H368
 
@@ -53794,6 +53794,13 @@ SMD SMT ceramic resonator filter filter hand-soldering
 0
 3
 3
+DILB40P-223TLF
+AMPHENOL_DILB40P-223TLF
+
+
+0
+40
+40
 Diode_SMD
 D_0201_0603Metric
 Diode SMD 0201 (0603 Metric), square (rectangular) end terminal, IPC_7351 nominal, (Body size source: https://www.vishay.com/docs/20052/crcw0201e3.pdf), generated with kicad-footprint-generator
@@ -56972,6 +56979,13 @@ heatsink
 0
 0
 0
+ICSocket
+DIP-40_W15.24mm_Socket_With_IC
+40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
+THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
+0
+40
+40
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -83292,17 +83306,17 @@ TO-264-5 Vertical RM 3.81mm
 0
 5
 5
-PinHeaders
-PinHeader_2x20_Counter_Clockwise_P1.27mm_Vertical
-Through hole straight pin header, 2x20, 1.27mm pitch, double rows
-Through hole pin header THT 2x20 1.27mm double row
-0
-40
-40
 PinSockets
 PinSocket_2x20_Counter_Clockwise_P1.27mm_Vertical
 Through hole straight socket strip, 2x20, 1.27mm pitch, double cols (from Kicad 4.0.7), script generated
 Through hole socket strip THT 2x20 1.27mm double row
+0
+40
+40
+PinSockets
+PinSocket_2x20_Counter_Clockwise_P2.54mm_Vertical
+Through hole straight socket strip, 2x20, 2.54mm pitch, double cols (from Kicad 4.0.7), script generated
+Through hole socket strip THT 2x20 2.54mm double row
 0
 40
 40
