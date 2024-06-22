@@ -1,0 +1,4 @@
+(sym_lib_table
+  (version 7)
+  (lib (name "PIC18F4321_I_P")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/PIC18F4321_I_P/KiCADv6/2024-06-20_00-13-20.kicad_sym")(options "")(descr ""))
+)
