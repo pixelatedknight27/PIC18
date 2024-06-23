@@ -3,4 +3,6 @@
   (lib (name "ATS08A-E")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/ATS08A-E/footprints.pretty")(options "")(descr ""))
   (lib (name "PinSockets")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/PinSockets.pretty")(options "")(descr ""))
   (lib (name "DILB40P-223TLF")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/DILB40P-223TLF/DILB40P-223TLF.pretty")(options "")(descr ""))
+  (lib (name "MF-MSMF200-2")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/MF-MSMF200-2/MF-MSMF200-2.pretty")(options "")(descr ""))
+  (lib (name "ul_676433910")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/ul_676433910/KiCADv6/footprints.pretty")(options "")(descr ""))
 )

@@ -1,4 +1,4 @@
-23343161725215960
+23344880784778386
 ATS08A-E
 XTAL_HC49P488W43L1085T450H368
 
@@ -56979,13 +56979,6 @@ heatsink
 0
 0
 0
-ICSocket
-DIP-40_W15.24mm_Socket_With_IC
-40-lead though-hole mounted DIP package, row spacing 15.24 mm (600 mils), Socket
-THT DIP DIL PDIP 2.54mm 15.24mm 600mil Socket
-0
-40
-40
 Inductor_SMD
 L_6.3x6.3_H3
 Choke, SMD, 6.3x6.3mm 3mm height
@@ -63654,6 +63647,13 @@ LED_THT
 LED_VCCLite_5381H7_6.35x6.35mm
 Yellow 5381 Series LED VCCLite https://vcclite.com/wp-content/uploads/wpallimport/files/files/5381Series.pdf http://static.vcclite.com/pdf/Mounting%20Hole%20Pattern%202.pdf
 Yellow 5381 Series LED
+0
+2
+2
+MF-MSMF200-2
+FUSER_MF-MSMF200-2
+
+
 0
 2
 2
@@ -95374,3 +95374,10 @@ Varistor VF
 0
 2
 2
+ul_676433910
+CONN_67643-3910_MOL
+
+676433910 
+0
+4
+4
