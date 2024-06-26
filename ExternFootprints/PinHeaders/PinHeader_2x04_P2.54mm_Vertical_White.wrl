@@ -19,7 +19,7 @@
 Shape {
 	appearance Appearance {material DEF IC-BODY-EPOXY-04 Material {
 		ambientIntensity 0.293
-		diffuseColor .6 0 0
+		diffuseColor .9 .9 .9
 		specularColor 0.18 0.168 0.16
 		emissiveColor 0.0 0.0 0.0
 		transparency 0.0

@@ -34,6 +34,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -46,6 +47,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -58,6 +60,7 @@
 		(effects
 			(font
 				(size 1.27 1.27)
+				(thickness 0.15)
 			)
 		)
 	)
@@ -184,19 +187,19 @@
 		(layer "F.Fab")
 		(uuid "a0efbdb6-b490-4866-a547-72231d03ddc0")
 	)
-	(pad "A" smd rect
-		(at 2.485 0)
-		(size 1.34 2.78)
-		(layers "F.Cu" "F.Paste" "F.Mask")
-		(solder_mask_margin 0.102)
-		(uuid "d6f728ea-315e-478f-960e-2dc264ccb89e")
-	)
-	(pad "C" smd rect
+	(pad "1" smd rect
 		(at -2.485 0)
 		(size 1.34 2.78)
 		(layers "F.Cu" "F.Paste" "F.Mask")
 		(solder_mask_margin 0.102)
 		(uuid "0d9e63f7-753d-479b-95ab-8848218662d1")
+	)
+	(pad "2" smd rect
+		(at 2.485 0)
+		(size 1.34 2.78)
+		(layers "F.Cu" "F.Paste" "F.Mask")
+		(solder_mask_margin 0.102)
+		(uuid "d6f728ea-315e-478f-960e-2dc264ccb89e")
 	)
 	(model "${KIPRJMOD}/ExternFootprints/ZM4748A_L0G/ZM4748A_L0G.step"
 		(offset

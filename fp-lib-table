@@ -6,4 +6,5 @@
   (lib (name "MF-MSMF200-2")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/MF-MSMF200-2/MF-MSMF200-2.pretty")(options "")(descr ""))
   (lib (name "ul_676433910")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/ul_676433910/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "ZM4748A_L0G")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/ZM4748A_L0G/ZM4748A_L0G.pretty")(options "")(descr ""))
+  (lib (name "PinHeaders")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/PinHeaders/PinHeaders.pretty")(options "")(descr ""))
 )
