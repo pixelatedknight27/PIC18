@@ -8375,16 +8375,6 @@
 	)
 	(wire
 		(pts
-			(xy 311.15 35.56) (xy 311.15 40.64)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "850e180b-26a5-41f0-abc2-2afbeadb8d22")
-	)
-	(wire
-		(pts
 			(xy 129.54 132.08) (xy 143.51 132.08)
 		)
 		(stroke
@@ -9265,16 +9255,6 @@
 	)
 	(wire
 		(pts
-			(xy 312.42 35.56) (xy 311.15 35.56)
-		)
-		(stroke
-			(width 0)
-			(type default)
-		)
-		(uuid "c0e147a0-8d7f-433d-b090-ec738d34c3a9")
-	)
-	(wire
-		(pts
 			(xy 93.98 76.2) (xy 96.52 76.2)
 		)
 		(stroke
@@ -10082,6 +10062,17 @@
 		)
 		(uuid "015f1a7b-5e4a-4c2b-9b13-7a5fe8bbcee1")
 	)
+	(label "RD6/PSP6/P1C"
+		(at 199.39 250.19 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "030f932f-0679-4c51-b832-2fada69f7a49")
+	)
 	(label "VDD"
 		(at 199.39 227.33 180)
 		(fields_autoplaced yes)
@@ -10092,6 +10083,17 @@
 			(justify right bottom)
 		)
 		(uuid "060901af-6777-42aa-9d6a-d1112635ed29")
+	)
+	(label "RD4/PSP4"
+		(at 199.39 247.65 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "079d164d-c555-4ef6-b1e6-4f67a5101766")
 	)
 	(label "RC6{slash}TX{slash}CK"
 		(at 259.08 138.43 180)
@@ -10181,6 +10183,17 @@
 		)
 		(uuid "13a7b162-0848-4183-a5a7-51386b4ba256")
 	)
+	(label "VSS"
+		(at 199.39 252.73 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "143157f7-9bdf-436e-887c-0de2928eb674")
+	)
 	(label "RB5/KBI1/PGM"
 		(at 214.63 260.35 0)
 		(fields_autoplaced yes)
@@ -10191,6 +10204,17 @@
 			(justify left bottom)
 		)
 		(uuid "18b01724-9834-4835-b865-cd913f05cde9")
+	)
+	(label "OSC2/CLKO/RA6"
+		(at 214.63 229.87 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "19768115-30f2-4d24-a7cc-da16699c60dd")
 	)
 	(label "*MCLR/VPP/RE3"
 		(at 50.8 38.1 180)
@@ -10302,6 +10326,17 @@
 		)
 		(uuid "33c12d1e-0aac-4e3d-bccb-8e4b8104e85e")
 	)
+	(label "RD2/PSP2"
+		(at 199.39 240.03 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "36569c4a-3f9d-4e97-93e1-b74b83284ee8")
+	)
 	(label "RC4{slash}SDI{slash}SDA"
 		(at 299.72 60.96 180)
 		(fields_autoplaced yes)
@@ -10356,6 +10391,17 @@
 			(justify left bottom)
 		)
 		(uuid "494f3599-cb1a-44f9-a061-851cb8c14acb")
+	)
+	(label "RC3/SCK/SCL"
+		(at 214.63 234.95 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "4b25f3e9-c664-40cb-9b0f-f5ca7caa2ccd")
 	)
 	(label "RD5/PSP5/P1B"
 		(at 137.16 243.84 0)
@@ -10444,6 +10490,17 @@
 			(justify right bottom)
 		)
 		(uuid "5b7abf02-4dbd-4c8a-9931-6bf827465a0b")
+	)
+	(label "RC4/SDI/SDA"
+		(at 199.39 242.57 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "5f89b467-d415-4667-addc-b45b88a5890a")
 	)
 	(label "*MCLR/VPP/RE3"
 		(at 67.31 213.36 180)
@@ -10588,6 +10645,17 @@
 		)
 		(uuid "7a1a1afc-778f-48e0-81b6-0e0c8b574107")
 	)
+	(label "RB6/KBI2/PGC"
+		(at 199.39 262.89 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "7cfa4c8c-a2d5-42ee-836d-0fb42d03192f")
+	)
 	(label "RD3{slash}PSP3"
 		(at 321.31 133.35 180)
 		(fields_autoplaced yes)
@@ -10655,7 +10723,7 @@
 		(uuid "89a13a79-b40b-4864-ac8d-e230cf6abfb0")
 	)
 	(label "VDD"
-		(at 215.9 252.73 0)
+		(at 214.63 252.73 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -10785,6 +10853,17 @@
 			(justify right bottom)
 		)
 		(uuid "9a15fcf9-3377-4499-aec5-8fb3ce5076e3")
+	)
+	(label "RC6/TX/CK"
+		(at 199.39 245.11 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "9a61b80c-e33f-4f66-9dd4-7edf953373dd")
 	)
 	(label "RD4{slash}PSP4"
 		(at 321.31 135.89 180)
@@ -10951,6 +11030,17 @@
 		)
 		(uuid "bb5fa122-b8fd-4a2a-8290-cbc40c4bc8b6")
 	)
+	(label "RC1/T1OSI/CCP2(1)"
+		(at 214.63 232.41 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "bc1c8311-0a8a-4c20-a866-967fbd67577f")
+	)
 	(label "RC5/SDO"
 		(at 137.16 254 0)
 		(fields_autoplaced yes)
@@ -10972,6 +11062,17 @@
 			(justify right bottom)
 		)
 		(uuid "c04e6b08-a1cb-415d-8c30-cdb5aa7b5555")
+	)
+	(label "RD1/PSP1"
+		(at 214.63 237.49 0)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left bottom)
+		)
+		(uuid "c2e5d352-2840-4274-aefa-3b3d0bea8ec7")
 	)
 	(label "RA5/AN4/SS*/HLVDIN/C2OUT"
 		(at 199.39 222.25 180)
@@ -11029,7 +11130,7 @@
 		(uuid "c8d6cf02-686a-4fd5-9b4b-c64dd66fe1b8")
 	)
 	(label "VSS"
-		(at 215.9 227.33 0)
+		(at 214.63 227.33 0)
 		(fields_autoplaced yes)
 		(effects
 			(font
@@ -11050,6 +11151,17 @@
 		)
 		(uuid "cbd70726-19ee-46c9-8f6d-1d2470101b73")
 	)
+	(label "RB4/KBI0/AN11"
+		(at 199.39 260.35 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ce9afad1-7cc3-443f-9861-b92dfd0cbd63")
+	)
 	(label "RC7/RX/DT"
 		(at 154.94 31.75 0)
 		(fields_autoplaced yes)
@@ -11060,6 +11172,17 @@
 			(justify left bottom)
 		)
 		(uuid "ced2e60d-f21e-40d0-adfb-821dc35614b7")
+	)
+	(label "RB0/INT0/FLT0/AN12"
+		(at 199.39 255.27 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ceef0ca9-c91c-4e21-b431-066e6163c7bd")
 	)
 	(label "RC2/CCP1/P1A"
 		(at 199.39 234.95 180)
@@ -11324,6 +11447,17 @@
 			(justify right bottom)
 		)
 		(uuid "fe716e66-e372-4230-a3f3-21899a7b49d6")
+	)
+	(label "RB2/INT2/AN8"
+		(at 199.39 257.81 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "fff7aa4b-bf74-4457-bc6c-50ba9c7d9735")
 	)
 	(symbol
 		(lib_id "Device:R_US")
@@ -15144,72 +15278,6 @@
 			(project "PIC18"
 				(path "/e4a6b067-3b9b-4409-bea0-0b6131f207b6"
 					(reference "D1")
-					(unit 1)
-				)
-			)
-		)
-	)
-	(symbol
-		(lib_id "power:GND")
-		(at 311.15 40.64 0)
-		(unit 1)
-		(exclude_from_sim no)
-		(in_bom yes)
-		(on_board yes)
-		(dnp no)
-		(fields_autoplaced yes)
-		(uuid "7a9840fc-3fe1-418a-9f39-56ef81956e3f")
-		(property "Reference" "#PWR026"
-			(at 311.15 46.99 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Value" "GND"
-			(at 311.15 45.72 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-			)
-		)
-		(property "Footprint" ""
-			(at 311.15 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Datasheet" ""
-			(at 311.15 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(property "Description" "Power symbol creates a global label with name \"GND\" , ground"
-			(at 311.15 40.64 0)
-			(effects
-				(font
-					(size 1.27 1.27)
-				)
-				(hide yes)
-			)
-		)
-		(pin "1"
-			(uuid "2842e3d2-bcf9-4a0a-8437-14df807d01a9")
-		)
-		(instances
-			(project "PIC18"
-				(path "/e4a6b067-3b9b-4409-bea0-0b6131f207b6"
-					(reference "#PWR026")
 					(unit 1)
 				)
 			)
