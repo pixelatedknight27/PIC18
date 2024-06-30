@@ -21912,20 +21912,20 @@
 		(uuid "393b633d-ae32-4da2-b925-17a49fccd638")
 	)
 	(segment
-		(start 110 74.24)
-		(end 110 77.75)
-		(width 0.2)
-		(layer "F.Cu")
-		(net 97)
-		(uuid "5cfc6118-9a89-4faf-9be5-0dcf91d75382")
-	)
-	(segment
 		(start 111 77.75)
 		(end 110 77.75)
 		(width 0.2)
 		(layer "F.Cu")
 		(net 97)
 		(uuid "61eb8bdf-4aa4-4e96-9191-79c65d5ad6d4")
+	)
+	(segment
+		(start 110 77.75)
+		(end 110 74.24)
+		(width 0.2)
+		(layer "F.Cu")
+		(net 97)
+		(uuid "6c5e2b17-2f0d-4a2d-9985-6eb7842184ca")
 	)
 	(segment
 		(start 111.77 76.98)
