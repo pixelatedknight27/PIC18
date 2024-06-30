@@ -6602,6 +6602,10 @@
 		(uuid "1c790493-7ac2-41fb-8808-61790853c844")
 	)
 	(no_connect
+		(at 92.71 104.14)
+		(uuid "664cf00a-5450-48de-aae5-d75fb44338e9")
+	)
+	(no_connect
 		(at 160.02 165.1)
 		(uuid "ac737bc2-1fc3-40d1-93c0-b55d27896693")
 	)
@@ -10446,6 +10450,16 @@
 			(type default)
 		)
 		(uuid "f8a32c0c-3d40-49c5-b303-48388da16863")
+	)
+	(wire
+		(pts
+			(xy 91.44 104.14) (xy 92.71 104.14)
+		)
+		(stroke
+			(width 0)
+			(type default)
+		)
+		(uuid "f8f3a79a-a165-4691-9916-d2d51297d50d")
 	)
 	(wire
 		(pts
