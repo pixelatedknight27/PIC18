@@ -14503,7 +14503,7 @@
 				)
 			)
 		)
-		(property "Value" ".1uf"
+		(property "Value" "100nf"
 			(at 55.88 217.932 0)
 			(effects
 				(font
@@ -18673,7 +18673,7 @@
 				)
 			)
 		)
-		(property "Value" ".1uf"
+		(property "Value" "100nf"
 			(at 50.546 217.932 0)
 			(effects
 				(font
