@@ -14695,15 +14695,15 @@
 		(dnp no)
 		(uuid "4834cbee-b2e5-4a45-b875-31f387f3ae5e")
 		(property "Reference" "R3"
-			(at 104.14 79.756 90)
+			(at 102.616 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
 				)
 			)
 		)
-		(property "Value" "27"
-			(at 104.14 77.47 90)
+		(property "Value" "33"
+			(at 105.664 77.47 90)
 			(effects
 				(font
 					(size 1.27 1.27)
@@ -18349,7 +18349,7 @@
 				(justify right)
 			)
 		)
-		(property "Footprint" "LED_SMD:LED_0402_1005Metric"
+		(property "Footprint" "LED_SMD:LED_0805_2012Metric"
 			(at 207.01 85.09 0)
 			(effects
 				(font
@@ -19128,7 +19128,7 @@
 				)
 			)
 		)
-		(property "Value" "27"
+		(property "Value" "33"
 			(at 105.664 70.358 90)
 			(effects
 				(font

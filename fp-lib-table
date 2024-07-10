@@ -7,4 +7,5 @@
   (lib (name "ul_676433910")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/ul_676433910/KiCADv6/footprints.pretty")(options "")(descr ""))
   (lib (name "ZM4748A_L0G")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/ZM4748A_L0G/ZM4748A_L0G.pretty")(options "")(descr ""))
   (lib (name "PinHeaders")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/PinHeaders/PinHeaders.pretty")(options "")(descr ""))
+  (lib (name "YC124-JR-071RL")(type "KiCad")(uri "${KIPRJMOD}/ExternFootprints/YC124-JR-071RL/YC124-JR-071RL.pretty")(options "")(descr ""))
 )
