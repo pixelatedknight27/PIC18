@@ -15789,7 +15789,7 @@
 				(hide yes)
 			)
 		)
-		(property "Footprint" "Connector_PinHeader_2.54mm:PinHeader_2x20_P2.54mm_Vertical"
+		(property "Footprint" "PinSockets:PinSocket_2x20_Counter_Clockwise_P2.54mm_Vertical"
 			(at 228.6 240.03 0)
 			(effects
 				(font
