@@ -7043,7 +7043,7 @@
 		(descr "Chip Resistor Network, ROHM MNR14 (see mnr_g.pdf)")
 		(tags "resistor array")
 		(property "Reference" "RN7"
-			(at 0 -2.8 180)
+			(at 2.36 -0.04995 -90)
 			(layer "F.SilkS")
 			(uuid "ebd45a3b-e868-42ed-9630-036b2d4fe799")
 			(effects
@@ -22473,6 +22473,18 @@
 			(justify right)
 		)
 	)
+	(gr_text "+5V"
+		(at 150 106.5455 0)
+		(layer "F.SilkS")
+		(uuid "2ba57ff3-3e83-42e8-8c28-49dc7234bbd4")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
 	(gr_text "SDI"
 		(at 157.8 138.54 0)
 		(layer "F.SilkS")
@@ -22583,6 +22595,30 @@
 			(justify right)
 		)
 	)
+	(gr_text "GND"
+		(at 140.5 106.5455 0)
+		(layer "F.SilkS")
+		(uuid "93406a03-ab3d-425f-9660-c55c026c9aeb")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
+	(gr_text "GND"
+		(at 150 81.1455 0)
+		(layer "F.SilkS")
+		(uuid "9d38f31f-6231-4de1-ad6b-40a774d90812")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left top)
+		)
+	)
 	(gr_text "+5V"
 		(at 115.66 124.8 0)
 		(layer "F.SilkS")
@@ -22617,6 +22653,18 @@
 				(thickness 0.1)
 			)
 			(justify left bottom)
+		)
+	)
+	(gr_text "+5V"
+		(at 140.5 81.1455 0)
+		(layer "F.SilkS")
+		(uuid "f40be828-fb3b-427e-ade6-ccd594696586")
+		(effects
+			(font
+				(size 1 1)
+				(thickness 0.1)
+			)
+			(justify left top)
 		)
 	)
 	(gr_text "MCRX"
