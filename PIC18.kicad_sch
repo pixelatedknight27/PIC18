@@ -10864,6 +10864,17 @@
 		)
 		(uuid "1a1a814e-4291-4a17-8bb8-e5d4f98cb0cc")
 	)
+	(label "RB2{slash}INT2{slash}AN8"
+		(at 215.9 162.56 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "1e93afdc-b508-4968-992b-25a3dee8dd2c")
+	)
 	(label "RE1/WR*/AN6"
 		(at 142.24 160.02 180)
 		(fields_autoplaced yes)
@@ -10919,39 +10930,6 @@
 		)
 		(uuid "2da82ee6-fff1-4634-b0e3-d682458028b1")
 	)
-	(label "RB5{slash}KBI1{slash}PGM"
-		(at 214.63 162.56 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2edd4ffa-b8b8-4e67-bbda-306cdfc5cb48")
-	)
-	(label "RB2{slash}INT2{slash}AN8"
-		(at 214.63 170.18 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "2f365c37-de5a-4aba-8083-93db99399428")
-	)
-	(label "RB1{slash}INT1{slash}AN10"
-		(at 214.63 172.72 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "306c8ca1-206d-49ee-8b2e-7a569db6777f")
-	)
 	(label "RD5/PSP5/P1B"
 		(at 339.09 170.18 180)
 		(fields_autoplaced yes)
@@ -10985,6 +10963,17 @@
 		)
 		(uuid "36569c4a-3f9d-4e97-93e1-b74b83284ee8")
 	)
+	(label "RB6{slash}KBI2{slash}PGC"
+		(at 215.9 172.72 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "3a0567b5-0f00-42da-8d66-04e1893ef0cf")
+	)
 	(label "RC4{slash}SDI{slash}SDA"
 		(at 307.34 93.98 180)
 		(fields_autoplaced yes)
@@ -10995,17 +10984,6 @@
 			(justify right bottom)
 		)
 		(uuid "41692938-db3c-4f05-b39d-d2241caf948f")
-	)
-	(label "RB0{slash}INT0{slash}FLT0{slash}AN12"
-		(at 214.63 175.26 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "444ea364-3261-4a55-b02d-24de83a031ba")
 	)
 	(label "RD4/PSP4"
 		(at 160.02 248.92 0)
@@ -11183,6 +11161,17 @@
 		)
 		(uuid "6670f127-cff4-4262-8778-673bb5eace02")
 	)
+	(label "RB1{slash}INT1{slash}AN10"
+		(at 215.9 160.02 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "66d44b2f-a8bb-4108-a61d-bb751e3e0f1e")
+	)
 	(label "RC4{slash}SDI{slash}SDA"
 		(at 276.86 167.64 180)
 		(fields_autoplaced yes)
@@ -11348,17 +11337,6 @@
 		)
 		(uuid "8a1a43c7-b452-49fc-b0d6-81f805a101e8")
 	)
-	(label "RB4{slash}KBI0{slash}AN11"
-		(at 214.63 165.1 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "8c263a4d-9496-4d0d-b0ba-910af0e47f70")
-	)
 	(label "RD3/PSP3"
 		(at 237.49 242.57 0)
 		(fields_autoplaced yes)
@@ -11447,6 +11425,17 @@
 		)
 		(uuid "97a61ac4-697d-4042-aed6-ef404c57e010")
 	)
+	(label "RB0{slash}INT0{slash}FLT0{slash}AN12"
+		(at 215.9 157.48 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "98297437-aaa1-4118-b203-b3b3d45bbb4c")
+	)
 	(label "RC2/CCP1/P1A"
 		(at 90.17 256.54 180)
 		(fields_autoplaced yes)
@@ -11524,17 +11513,6 @@
 		)
 		(uuid "a314d9fb-1e5c-4c37-aa8e-3031f3f89770")
 	)
-	(label "RB7{slash}KBI3{slash}PGD"
-		(at 214.63 157.48 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "a34d4813-0088-49f3-aac7-8d5810b3a735")
-	)
 	(label "RE0/RD*/AN5"
 		(at 90.17 233.68 180)
 		(fields_autoplaced yes)
@@ -11556,6 +11534,17 @@
 			(justify right bottom)
 		)
 		(uuid "a6e90372-7139-4c28-9dfd-1a407d192867")
+	)
+	(label "RB4{slash}KBI0{slash}AN11"
+		(at 215.9 167.64 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "a735a40a-1b05-43f7-92eb-98f4e80a4eca")
 	)
 	(label "OSC1/CLKI/RA7"
 		(at 222.25 232.41 180)
@@ -11667,6 +11656,28 @@
 		)
 		(uuid "b62ff3dc-d11b-4475-a5cf-719c60929e7d")
 	)
+	(label "RB3{slash}AN9{slash}CCP2(1)"
+		(at 215.9 165.1 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "b8d3f418-f641-4aab-b387-f2f01c32ff8e")
+	)
+	(label "RB7{slash}KBI3{slash}PGD"
+		(at 215.9 175.26 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "ba61c9b3-4af1-4f43-94ec-bc035ba466fb")
+	)
 	(label "TXD"
 		(at 321.31 68.58 180)
 		(fields_autoplaced yes)
@@ -11765,6 +11776,17 @@
 			(justify right bottom)
 		)
 		(uuid "c4107b75-80d6-497e-a57f-51056a2f2da3")
+	)
+	(label "RB5{slash}KBI1{slash}PGM"
+		(at 215.9 170.18 180)
+		(fields_autoplaced yes)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify right bottom)
+		)
+		(uuid "c4b63ae0-eb47-4af1-85f1-443cec66bf66")
 	)
 	(label "RB6/KBI2/PGC"
 		(at 44.45 81.28 0)
@@ -11920,17 +11942,6 @@
 		)
 		(uuid "dcc32a54-cf80-4261-ac3e-d8458bbaca3c")
 	)
-	(label "RB6{slash}KBI2{slash}PGC"
-		(at 214.63 160.02 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "df994b43-f8cd-4586-9ff0-6c959123939f")
-	)
 	(label "VTHERM"
 		(at 254 88.9 0)
 		(fields_autoplaced yes)
@@ -12029,17 +12040,6 @@
 			(justify left bottom)
 		)
 		(uuid "ef2ca59d-3b47-4a4b-b772-14fb21dbd7d6")
-	)
-	(label "RB3{slash}AN9{slash}CCP2(1)"
-		(at 214.63 167.64 180)
-		(fields_autoplaced yes)
-		(effects
-			(font
-				(size 1.27 1.27)
-			)
-			(justify right bottom)
-		)
-		(uuid "ef5b579c-f578-4276-9367-a4dbe8a7c5b6")
 	)
 	(label "RD7/PSP7/P1D"
 		(at 237.49 252.73 0)
