@@ -1,6 +1,7 @@
 # A PIC18 development board
 ### Based off of Professor Felix Pinai's ECE3301L board
-![image](https://github.com/user-attachments/assets/de39d89e-4c4c-465f-b978-221ce79eec85)
+![image](https://github.com/user-attachments/assets/4420798a-eb4b-4a08-af2d-1b10852ee56e)
 
-![image](https://github.com/user-attachments/assets/93c3f163-b288-493f-94f5-e4dd3bddf8cc)
+![image](https://github.com/user-attachments/assets/6ca373bc-5140-4379-8ef9-f0bf88f32e54)
+
 
